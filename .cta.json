@@ -1,0 +1,22 @@
+{
+  "projectName": "tsrouter-add-ons",
+  "mode": "file-router",
+  "typescript": true,
+  "tailwind": true,
+  "packageManager": "pnpm",
+  "git": true,
+  "version": 1,
+  "framework": "react-cra",
+  "chosenAddOns": [
+    "biome",
+    "form",
+    "sentry",
+    "shadcn",
+    "t3env",
+    "table",
+    "tanstack-query",
+    "tanchat",
+    "start",
+    "store"
+  ]
+}
