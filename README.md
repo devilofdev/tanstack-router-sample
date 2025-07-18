@@ -1,3 +1,5 @@
+This project was created by `pnpx create-tanstack@latest --add-ons`
+
 새로운 TanStack 앱에 오신 것을 환영합니다\!
 
 # 시작하기
